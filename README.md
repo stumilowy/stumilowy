@@ -9,6 +9,7 @@
 ###
 
 <h3 align="center">I don’t write code, I write poetry.</h3>
+<h2 aling="center">Evviva l’arte!</h2>
 
 ###
 
