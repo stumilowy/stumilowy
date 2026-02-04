@@ -44,12 +44,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stumilowy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://discord.com/users/331167437779369984" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
