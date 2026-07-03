@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<!-- <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-</div>
+</div> -->
 
 ###
 
